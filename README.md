@@ -6,6 +6,24 @@
 
 Add a Shorekeeper startup animation and video background to Codex, with a reversible installation workflow.
 
+## 效果预览 · Preview
+
+### 主界面示意 · Interface illustration
+
+![守岸人主题界面示意 · Shorekeeper interface illustration](assets/interface-preview.png)
+
+使用主题素材制作的演示界面，不含账号或聊天记录，并非应用实际运行截图。
+
+An interface illustration built from theme assets, without account or chat data. It is not a screenshot of the running application.
+
+### 启动动画 · Startup animation
+
+![守岸人启动动画 · Shorekeeper startup animation](assets/startup-preview.gif)
+
+从发布包中的真实启动视频生成的约 15 秒循环预览；GIF 已降低分辨率与帧率，完整效果以安装包为准。
+
+A roughly 15-second looping preview generated from the packaged startup video. Resolution and frame rate are reduced for the GIF; see the package for full quality.
+
 ## 下载与文档 · Downloads and documentation
 
 - [下载 v3 分享包 · Download the v3 package](https://github.com/jiang050504/codex-shorekeeper-theme/releases/download/v3.0.0/Codex-Shorekeeper-Share-v3.zip)
